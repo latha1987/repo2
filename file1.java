@@ -8,4 +8,6 @@ public class Exercise4 {
  }
  
 }
-dding some code
+System.out.print(w + "\n" + x + "\n" + y + "\n" + z);
+
+hiiii i am use2_karka adding some code
